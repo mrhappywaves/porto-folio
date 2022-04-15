@@ -5,7 +5,7 @@
   "description": "Most likely a final web development portfolio.",
   "source": "src/index.html",
   "scripts": {
-    "start": "parcel src/index.html -- open",
+    "start": "parcel src/index.html",
     "build": "parcel build src/index.html"
   },
   "repository": {
