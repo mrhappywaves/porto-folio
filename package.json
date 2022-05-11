@@ -9,8 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html",
-    "heroku-postbuild": "parcel build src/index.html"
+    "build": "parcel --dist-dir /build src/index.html"
   },
   "repository": {
     "type": "git",
@@ -20,6 +19,7 @@
   "author": "Max Rybakin",
   "license": "MIT",
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "prettier": "^2.4.1"
   },
   "dependencies": {
