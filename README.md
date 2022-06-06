@@ -14,7 +14,7 @@ Hopefully this is a long term version of my portfolio, but that doesn’t mean t
 https://user-images.githubusercontent.com/94947579/163124194-cb37e095-9ce5-4983-bcf1-ff39051a4c5b.mp4
 
 ## Project Links
-Experience the application first hand 👨‍💻:
+Experience the application first hand 👨‍💻: https://mrhappywaves.github.io/porto-folio/
 
 Git repository: https://github.com/mrhappywaves/porto-folio
 
